@@ -1,1 +1,3 @@
-# angularjs-broccoli
+# generate-cli
+
+This project uses ember-cli.

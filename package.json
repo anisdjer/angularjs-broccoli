@@ -1,0 +1,28 @@
+{
+  "name": "generate-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisdjer/angularjs-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisdjer/angularjs-cli/issues"
+  },
+  "homepage": "https://github.com/anisdjer/angularjs-cli#readme",
+  "dependencies": {
+    "ember-cli": "^2.3.0",
+    "exit": "^0.1.2",
+    "lodash": "^4.5.1",
+    "yam": "0.0.18"
+  },
+  "bin": {
+    "gen": "./bin/gen"
+  }
+}

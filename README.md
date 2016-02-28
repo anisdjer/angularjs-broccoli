@@ -1,1 +1,1 @@
-# angularjs-broccoli
+# angularjs-cli

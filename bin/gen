@@ -2,6 +2,6 @@
 'use strict';
 
 // Provide a title to the process in `ps`
-process.title = 'ng';
+process.title = 'gen';
 
 require('../lib/cli');
